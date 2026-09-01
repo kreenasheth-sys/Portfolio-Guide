@@ -1,6 +1,6 @@
-# Portfolio-Guide
+# Kreena's Portfolio
 
-Welcome to my portfolio, where I showcase my projects and the questions I explored along the way.
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
 ## 📊 Projects
 
